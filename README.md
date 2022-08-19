@@ -107,7 +107,7 @@
   - Elegir crear almacenamiento
   ![Paso 4.3.1](/imagenes/img5_3_1.png)
 
-  - Ahora teclearemos en la terminal "ssh" Seguido de lo que copiamos anteriormente "AmayaG@20.25.161.80"
+  - Ahora teclearemos en la terminal "ssh" Seguido de lo que copiamos anteriormente 
   ![Paso 4.3.2](/imagenes/img5_3_2.png)
 
   - Nos haran una pregunta a la cual contestaremos de forma afirmativa
